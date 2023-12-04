@@ -1,0 +1,14 @@
+body {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding-top: 7rem;
+    font-family: 'montserrat', sans-serif;
+}
+
+form {
+    width: 100%;
+    max-width: 400px;
+    padding: 3rem 4rem;
+    margin: auto;
+}
